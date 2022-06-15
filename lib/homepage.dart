@@ -305,7 +305,7 @@ class _HomePageState extends State<HomePage> {
                         child: MaterialButton(
                           onPressed: detectObject,
                           child: Text(
-                            'Scan Id Frond Side',
+                            'Scan Id Frond Sideee',
                             style: TextStyle(
                                 fontWeight: FontWeight.bold,
                                 color: Color.fromRGBO(35, 35, 102, 1)),
